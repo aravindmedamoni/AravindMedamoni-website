@@ -1185,22 +1185,30 @@ body {
 .mh-progress.mh-progress-circle {
   display: inline-block;
   width: 120px;
-  height: 120px; }
+  height: 120px;
+ }
 
 .mh-progress path:nth-child(1) {
   stroke: rgba(0, 0, 0, 0.7);
+  
  }
 
 .mh-progress path:nth-child(2) {
-  stroke: #0bceaf; }
+  stroke: #0bceaf;
+  
+ }
   .mh-progress2 path:nth-child(2) {
-    stroke: darkgoldenrod; }
+    stroke: coral;
+    
+   }
     .mh-progress3 path:nth-child(2) {
       stroke:chartreuse;
-    stroke-width: 5;
+    
    }
       .mh-progress4 path:nth-child(2) {
-        stroke: magenta; }
+        stroke: magenta;
+        
+       }
   
 
 .candidatos {
